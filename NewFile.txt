@@ -2,8 +2,8 @@ This is a new file for the Git and Github assignment
 
 Adding text from the Github interface.
 
-<<<<<<< HEAD
+
 This info is added from the github interface
-=======
-This info is added from the github interface
->>>>>>> a9303ac84150e7864d03c5fdd3d6e303c3191d18
+
+This info is added locally
+
